@@ -1,20 +1,16 @@
-I'm Dave Lane from the Open Education Resource Foundation based in Dunedin, New Zealand.
+I'm Dave Lane from the OER Foundation based in Dunedin, New Zealand.
 
-To me, "equality" in the context of education means "the same for everyone" or "one size fits all". That's the past of education, not the future we envision.
+William Gibson famously said "the future is already here, it's just not very well distributed." It turns out that the same could be said about opportunities for higher education. The OER Foundation is working to address both of these distribution problems.
 
-Nature and nurture imbue us with two of the three necessities of learning: attitude and aptitude - these we hold within. We are then equipped to grasp the third necessity: opportunity, if we can find it.
+The Internet is a global copying machine. Access to it is rippling across the planet with breathtaking speed, sometimes even preceding other trappings of society like running water, rule of law, and educational institutions. It's disruption is profound and threatens existing fortunes and old, closed thinking. The dinosaurs - kings of the bygone era - are fighting its emergence tooth and nail, influencing legislation to protect their historical advantage and creating artificial scarcity using government granted monopolies like patents and copyright.
 
-Equity is equality one step removed. In higher education, equity is equality of opportunity. Today, too many experience inequity. So what can we do?
+Some of us see an opportunity to adapt instead. The Internet offers us something completely new: suddenly small distributed but dedicated groups, despite being of humble means, can use free and open tools to engage with a global audience.
 
-The Internet is a global copying machine. It's disruption threatens - and is being fought at every turn by - existing fortunes, by old, closed thinking. I think I hear the dinosaurs roaring.
-
-Some of us see an opportunity to adapt instead. The Internet offers us something completely new: suddenly small distributed but dedicated groups, using free and open tools, can reach a global audience while requiring remarkably few resources.
-
-Open-minded kindred spirits from all over the world work out in the open collaboratively, assembling the building blocks of an open higher education. They employ ideas and tools which have never been marketed to them by corporations. They are excited, inspired, and effective. Who would have thought we would create a rich, open educational ecosystem for all to discover, without anyone being separated from either their autonomy or dignity. Perhaps wikis are the petrie dishes of modern education.
+Open-minded kindred spirits from all over the world are working collaboratively, in the open, assembling an open higher education curriculum. They employ ideas and tools which have never been marketed to them by corporations. They are excited, inspired, and effective. Who would have thought we would create a vibrant, openly accessible educational ecosystem for all to discover in a humble wiki, without anyone being separated from their savings, their autonomy, or their dignity.
 
 With our partners, we are pioneering education freely available to all. Only assessment for real credentials comes at a fair and reasonable cost. Our model removes the tyranny of geography and personal circumstance.
 
-No longer need potential lie unrealised, ambitions be fustrated, genius fizzle unexpressed. Our collective goal is to remedy inequity of opportunity, not with a pale copy of what exists, but with something new. By combining the Internet, OERs, and a deep commitment to the principles of open, the OERu will deliver nothing less than global,  individualised, self-service equity-in-education.
+No longer does potential need to lie unrealised, ambitions be frustrated, or genius fizzle unexpressed. Our collective goal is to remedy inequity of opportunity, not with a pale copy of what exists, but with something new. By combining the Internet, OERs, and a deep commitment to the principles of open, the OERu will deliver nothing less than global, individualised, self-service equity-in-education.
 
 
 ---
