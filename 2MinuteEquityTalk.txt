@@ -1,18 +1,32 @@
 I'm Dave Lane from the Open Education Resource Foundation based in Dunedin, New Zealand.
 
-Like Email, Equality is just quality updated for the digital era. Equity is like Equality, but with a stake, with a sense of ownership. Education is what ductile minds are naturally inclined to do, to explore themselves given the opportunity. In the Nature vs. Nurture debate, the most obvious external is opportunity - that part is not innate. That's where the OERFoundation comes it.
+To me, "equality" in the context of education means "the same for everyone" or "one size fits all". That's the past of education, not the future we envision.
 
-In the context of education, equality is simply "sameness". A dull instrument. Equity is one step removed, embracing a richer reality, accepting that each mind moves in its own direction, the direction in which it's inclined. Not on the same inclination. Equity is equality of opportunity. Enabling minds to evolve and expand into their attiude, guided by aptitude until they metamorph. Because metamorphosis is akin to magic we cannot understand it but we recognise it when we see it. At best, we can only hope create the conditions in which it seems to happen.
+Nature and nurture imbue us with two of the three necessities of learning: attitude and aptitude - these we hold within. We are then equipped to grasp the third necessity: opportunity, if we can find it.
 
-Learning requires sharing, giving, and enquiring. Nature gives us the foundations of attitude and aptitude. Open removes barriers, glass ceilings, steel floors. With open we follow our curiosity, explore. Closed is a tease - lures us in with promises of "easy" then it holds out its hand, rubs its fingers expectantly... or it shuts the door.
+Equity is equality one step removed. In higher education, equity is equality of opportunity. Today, too many experience inequity. So what can we do?
 
-We cannot affect that which is within learners, but we can affect that which they are without. The Internet, the global copying machine, stymied at every turn by existing fortunes, by old, closed thinking. Nonetheless, the Internet succeeds in offering something completely new: the ability for a few dedicated people to reach a global audience, and provide for them the tools with which to create a global, cross-cultural community based on a common goal - the ability to scale and realistically offer equity in educational opportunity.
+The Internet is a global copying machine. It's disruption threatens - and is being fought at every turn by - existing fortunes, by old, closed thinking. I think I hear the dinosaurs roaring.
 
-Our kindred spirits from all over the world work away for all to see, working out in the open collaboratively, assembling the structure of a moden open higher education. They, and the institutions they represent, are testing new open ideas and new open tools which have never been marketed to them by corporations. Nonetheless, they are excited and inspired - who would have thought we would create a rich, open educational edifice in a wiki for all to discover and explore.
+Some of us see an opportunity to adapt instead. The Internet offers us something completely new: suddenly small distributed but dedicated groups, using free and open tools, can reach a global audience while requiring remarkably few resources.
 
-With our partners, we're pioneering a new model - education freely available to all. Only assessment - for real credentials - comes at a cost - a modest cost. But our model removes the tyranny of georgraphy. No matter who your are or where you are, the OERu is your opportunity, and for many it might be the only difference between fulfillment and wondering what might have been. No longer need potential lie dormant, ambitions be fustrated, genius fizzle unexpressed. Our collective goal is to remedy inequity of higher educational opportunity, not with a pale imitation, but with something new. Rather than nuggets, fries, and a coke, we are creating the higher learning equivalent of a home cooked meal, made from locally sourced ingedients, carrying the love of a community.
+Open-minded kindred spirits from all over the world work out in the open collaboratively, assembling the building blocks of an open higher education. They employ ideas and tools which have never been marketed to them by corporations. They are excited, inspired, and effective. Who would have thought we would create a rich, open educational ecosystem for all to discover, without anyone being separated from either their autonomy or dignity. Perhaps wikis are the petrie dishes of modern education.
+
+With our partners, we are pioneering education freely available to all. Only assessment for real credentials comes at a fair and reasonable cost. Our model removes the tyranny of geography and personal circumstance.
+
+No longer need potential lie unrealised, ambitions be fustrated, genius fizzle unexpressed. Our collective goal is to remedy inequity of opportunity, not with a pale copy of what exists, but with something new. By combining the Internet, OERs, and a deep commitment to the principles of open, the OERu will deliver nothing less than global,  individualised, self-service equity-in-education.
+
 
 ---
+Snippets
+
+Individual minds move in their own direction, the direction in which they are inclined. Not on the same inclination.
+
+Rather than nuggets, fries, and a coke, we are creating the higher learning equivalent of a home made care package, made to order, carrying with it the love and best wishes of a dedicated and welcoming community.
+
+Learning and teaching require sharing. "Open" removes barriers to sharing, glass ceilings, and steel floors. With open we follow our curiosity, explore. Rather than sharing, "closed" is a tease, luring us in with a sales pitch saturated with "easy" then it holds out its hand, rubs its fingers... we either pay for limited access, or it shuts the door.
+
+Like Email, Equality is just quality updated for the digital era. Equity is like Equality, but with a stake, with a sense of ownership. Education is what ductile minds are naturally inclined to do, to explore themselves given the opportunity. In the Nature vs. Nurture debate, the most obvious external is opportunity - that part is not innate. That's where the OERFoundation comes it.
 
 Talk about sharing requiring open, closed is anathema.
 
